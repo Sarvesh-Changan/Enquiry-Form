@@ -3,8 +3,6 @@
 A modern full-stack application built with MERN stack for managing customer inquiries efficiently. Features include real-time form validation, responsive design, and comprehensive CRUD operations. Perfect for businesses needing a robust contact management solution with an intuitive interface and secure data handling.
 
 ![MERN Stack](https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square&logo=mongodb)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
 ## 🚀 Features
 
 - **Responsive Design**: Fully responsive UI that works seamlessly on desktop and mobile devices
